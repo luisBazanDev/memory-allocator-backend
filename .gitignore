@@ -1,0 +1,6 @@
+# Zip files
+*.zip
+
+# Java
+target/
+.idea
